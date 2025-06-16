@@ -1,8 +1,5 @@
 
 
-![1](https://github.com/user-attachments/assets/ac878e8b-5564-4e11-b72b-e43e16fc2d4b)
-
-
 By following this book, you will develop a clear understanding of pandas for data 
 manipulation, machine learning, and in particular, supervised learning. There are 7 sections 
 in this course with total 35 lectures. 
