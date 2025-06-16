@@ -1,4 +1,5 @@
 
+![5](https://github.com/user-attachments/assets/ab125d39-4e16-41f9-823a-df0ee658c657)
 
 By following this book, you will develop a clear understanding of pandas for data 
 manipulation, machine learning, and in particular, supervised learning. There are 7 sections 
@@ -48,3 +49,17 @@ diabetes or not, with accuracy of almost 79%.
 
 In **seventh section** we have assembled all codes of this book in a single place where you can 
 easily access code of any section from this book.
+
+
+
+![1](https://github.com/user-attachments/assets/a77ee629-b7a8-4376-85c2-f55f50201775)
+
+
+![2](https://github.com/user-attachments/assets/e27b7357-5257-4de4-ad9a-28d116213c34)
+
+
+![3](https://github.com/user-attachments/assets/604bb52f-076c-4023-b11e-cbaa77bad43e)
+
+
+![4](https://github.com/user-attachments/assets/00debde9-f935-4824-83cb-ea138e51c9be)
+
